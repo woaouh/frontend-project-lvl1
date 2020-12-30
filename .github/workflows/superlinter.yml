@@ -26,4 +26,4 @@ jobs:
           
       # Runs eslint 
       - name: Lint
-        uses: make lint
+        run: make lint
